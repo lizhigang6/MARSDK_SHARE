@@ -1,0 +1,22 @@
+{
+  "name": "MARSDK_SHARE",
+  "version": "0.1.0",
+  "summary": "A short description of MARSDK_SHARE.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lizhigang/MARSDK_SHARE",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lizhigang": "lizhigang6@163.com"
+  },
+  "source": {
+    "git": "https://github.com/lizhigang/MARSDK_SHARE.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "MARSDK_SHARE/Classes/**/*"
+}
